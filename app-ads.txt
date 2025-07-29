@@ -1,1 +1,2 @@
 google.com, pub-5729352362494438, DIRECT, f08c47fec0942fa0
+appodeal.com, 349bdc1dbb466fc8bb509f45cd6400b48582cced235160ae, DIRECT
